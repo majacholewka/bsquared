@@ -16,9 +16,6 @@ To check out the most recent list of the feeds provided on B^2 Bsquared Network 
 
 [RedStone Price Feeds](https://docs.redstone.finance/docs/smart-contract-devs/price-feeds)
 
-[Data from any URL](https://docs.redstone.finance/docs/smart-contract-devs/custom-urls)
-
-[Randomness](https://docs.redstone.finance/docs/smart-contract-devs/randomness)
 
 🙋‍♂️ Need help?
 Please feel free to contact the RedStone team on [Discord](https://redstone.finance/discord) if you have any questions.
